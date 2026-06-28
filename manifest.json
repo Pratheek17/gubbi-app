@@ -1,0 +1,17 @@
+{
+  "name": "Gubbi",
+  "short_name": "Gubbi",
+  "description": "Weekly learning games for little ones — a friendly sparrow guides each lesson.",
+  "lang": "en",
+  "start_url": "/gubbi-app/",
+  "scope": "/gubbi-app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E6F4FE",
+  "theme_color": "#208AEF",
+  "icons": [
+    { "src": "/gubbi-app/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/gubbi-app/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/gubbi-app/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
